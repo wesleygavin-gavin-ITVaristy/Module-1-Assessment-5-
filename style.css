@@ -1,0 +1,48 @@
+.gallery img{
+        width: 100%;
+ }
+
+#menu{
+    
+    width:100%;
+    height:40px;
+    background-color: cornflowerblue;
+
+}
+#menu a{
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-right: 10px; 
+    padding-top: 12px;
+}
+
+#menu a:hover{
+    
+    color:blue;
+}
+h2{
+    color:cornflowerblue;
+    font-family: fantasy;
+    font-weight: 800;
+    }
+h4{
+     color:cornflowerblue;
+    font-family: fantasy;
+    font-weight: 800;
+    
+}
+b{
+     color:dodgerblue;
+    font-family: fantasy;
+    font-weight: 800;
+}
+p{
+    
+     color:black;
+    font-family: fantasy;
+    font-weight: 400;
+}
